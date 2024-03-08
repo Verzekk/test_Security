@@ -1,2 +1,2 @@
-release: 
+release: code.c
     gcc code.c
