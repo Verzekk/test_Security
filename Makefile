@@ -1,2 +1,2 @@
 all:
-	gcc code.c -o code
+	gcc code.c
